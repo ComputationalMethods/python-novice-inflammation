@@ -6,8 +6,6 @@
 
 An introduction to Python for non-programmers using inflammation data.
 
-My Version
-
 ## About the Lesson
 
 This lesson teaches novice programmers to write modular code to perform data analysis
